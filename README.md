@@ -58,6 +58,7 @@ php artisan key:generate
 
 ### Jalankan server
 ```php artisan serve
+
 ```
 
 ## 🤝 Kontribusi
