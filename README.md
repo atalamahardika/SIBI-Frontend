@@ -41,24 +41,27 @@
 ## 📦 Instalasi Lokal
 
 ### Clone repository
-```git clone https://github.com/username/SIBI-Frontend.git
+```  
+git clone https://github.com/username/SIBI-Frontend.git
 cd SIBI-Frontend
 ```
 
 ### Install dependencies
-```composer install
+```  
+composer install
 npm install
 npm run build
 ```  
 
 ### Copy env dan generate key
-```cp .env.example .env
+```  
+cp .env.example .env
 php artisan key:generate
 ```  
 
 ### Jalankan server
-```php artisan serve
-
+```  
+php artisan serve
 ```
 
 ## 🤝 Kontribusi
