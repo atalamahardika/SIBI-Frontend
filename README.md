@@ -61,7 +61,7 @@ php artisan key:generate
 
 ### Jalankan server
 ```  
-php artisan serve
+php artisan serve --port=8001
 ```
 
 ## 🤝 Kontribusi
