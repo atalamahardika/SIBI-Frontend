@@ -22,7 +22,7 @@ class GuestController extends Controller
             'file',
             file_get_contents($image),
             $image->getClientOriginalName()
-        )->post('http://127.0.0.1:8000/predict');
+        )->post('https://sibi-backend-production.up.railway.app/predict');
 
         $result = $response->json();
         return response()->json($result);
