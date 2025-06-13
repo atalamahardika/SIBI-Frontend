@@ -42,7 +42,7 @@
 
 ### Clone repository
 ```  
-git clone https://github.com/username/SIBI-Frontend.git
+git clone https://github.com/atalamahardika/SIBI-Frontend.git
 cd SIBI-Frontend
 ```
 
